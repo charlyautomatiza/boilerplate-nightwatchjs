@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "nightwatch --env chrome --parallel 4"
+    "test": "nightwatch --env chrome"
   },
   "repository": {
     "type": "git",
